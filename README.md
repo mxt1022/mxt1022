@@ -14,10 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/哔哩哔哩-每一天都在rp---pink?logo=bilibili" /></a>
+<!--<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />-->
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=mxt1022&abbreviated=true&color=yellow" />
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20mxt1022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
+
+## Languages & Frameworks & Skills :
+
+### Language:
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light" />
+
+### Web Design & Development:
+#### Frontend:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Vue.js](https://img.shields.io/badge/-Vue.js-145316?style=for-the-badge&logo=Vue.js&logoColor=white)
+
+#### Backend:
+![Springboot](https://img.shields.io/badge/Springboot-43853D.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### Database:
+![Mysql](https://img.shields.io/badge/MySql-13453D.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Hosting Services and Web Tools:
+![Postman](https://img.shields.io/badge/Postman-78853D.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+
+### IDEs and Tools 🛠:
+![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -39,23 +73,13 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxt1022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light" />
-</p>
 
-
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/哔哩哔哩-每一天都在rp---pink?logo=bilibili" /></a>
-<!--<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />-->
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=mxt1022&abbreviated=true&color=yellow" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
+<!--<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+</p>-->
 
 <!--mxt1022's GitHub | Languages Over Time(https://quine.sh?utm_source=widgets&utm_campaign=mxt1022)-->
 <p align="center">
