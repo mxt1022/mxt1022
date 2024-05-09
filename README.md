@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-每一天都在rp---pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/哔哩哔哩-每一天都在rp---pink?logo=bilibili" /></a>
 <!--<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />-->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=mxt1022&abbreviated=true&color=yellow" />
