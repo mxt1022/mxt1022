@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!--<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />-->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=mxt1022&abbreviated=true&color=yellow" />
+<img src="http://img.shields.io/badge/Code%20Time-10%20mins-blue"></a>
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20mxt1022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
