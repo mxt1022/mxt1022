@@ -96,3 +96,5 @@ Here are some ideas to get you started:
 <img src="https://stats.quine.sh/mxt1022/topics-over-time?theme=dark&center=true">
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
