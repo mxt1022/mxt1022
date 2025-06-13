@@ -106,8 +106,6 @@ Here are some ideas to get you started:
 
 > 📦 152.8 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -166,5 +164,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 18:48:00 UTC
+ Last Updated on 13/06/2025 18:48:05 UTC
 <!--END_SECTION:waka-->
