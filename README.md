@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -141,19 +141,16 @@ Sunday                   20 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   0 secs              ████████████████████████░   94.57 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-system                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -169,5 +166,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 18:50:24 UTC
+ Last Updated on 25/12/2025 18:49:58 UTC
 <!--END_SECTION:waka-->
