@@ -60,25 +60,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <!-- GitHub 通用统计 -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mxt1022&theme=transparent&show_icons=true&hide_border=true" />
-  
-  <!-- GitHub 连续打卡统计 -->
-  <img align="center" width="400" src="https://streak-stats.demolab.com?user=mxt1022&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-  <br/>
-  
-  <!-- GitHub 贡献活动图 -->
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-compact&hide_border=true&area=true" />
-  <br/>
-  
-  <!-- WakaTime 编码统计（需要配置 WakaTime） -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mxt1022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-  
-  <!-- 主要编程语言占比 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxt1022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <!-- 使用国内镜像的通用统计卡片 -->
+  <img align="center" width="400" src="https://stats.justsong.cn/api/github?username=mxt1022&theme=tokyonight&show_icons=true&hide_border=true" />
+ <!-- GitHub 连续打卡统计 -->
+  <img align="center" width="450" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
   <br/>
 </p>
-
+  
 <!-- https://github.com/kyechan99/capsule-render -->
 <!--<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
@@ -86,34 +74,7 @@ Here are some ideas to get you started:
 
 <!--mxt1022's GitHub | Languages Over Time(https://quine.sh?utm_source=widgets&utm_campaign=mxt1022)-->
 <!-- 标题 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
 
-<!-- Quine 综合统计（最酷炫） -->
-<p align="center">
-  <img width="800" src="https://stats.quine.sh/mxt1022/github?theme=light" />
-</p>
-
-<!-- GitHub 官方连续打卡统计（最稳定） -->
-<p align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=mxt1022&theme=light&hide_border=true" />
-</p>
-
-<!-- Quine 语言趋势图 -->
-<p align="center">
-  <img width="800" src="https://stats.quine.sh/mxt1022/languages-over-time?theme=light" />
-</p>
-
-<!-- Quine 话题趋势图 -->
-<p align="center">
-  <img width="800" src="https://stats.quine.sh/mxt1022/topics-over-time?theme=light" />
-</p>
-
-<!-- 贡献活动图（备用，确保至少有一个显示） -->
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-light&hide_border=true&area=true" />
-</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
