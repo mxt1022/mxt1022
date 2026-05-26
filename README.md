@@ -73,6 +73,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact" />
+</p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
 
