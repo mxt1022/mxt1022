@@ -85,18 +85,34 @@ Here are some ideas to get you started:
 </p>-->
 
 <!--mxt1022's GitHub | Languages Over Time(https://quine.sh?utm_source=widgets&utm_campaign=mxt1022)-->
+<!-- 标题 -->
 <p align="center">
-<img src="https://stats.quine.sh/mxt1022/languages-over-time?theme=dark">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-<!--mxt1022's GitHub | Stats(https://quine.sh?utm_source=widgets&utm_campaign=mxt1022)-->
+<!-- Quine 综合统计（最酷炫） -->
 <p align="center">
-<img src="https://stats.quine.sh/mxt1022/github?theme=dark">
+  <img width="800" src="https://stats.quine.sh/mxt1022/github?theme=light" />
 </p>
 
-<!--mxt1022's GitHub | Topics Over Time(https://quine.sh?utm_source=widgets&utm_campaign=mxt1022)-->
+<!-- GitHub 官方连续打卡统计（最稳定） -->
 <p align="center">
-<img src="https://stats.quine.sh/mxt1022/topics-over-time?theme=dark&center=true">
+  <img width="800" src="https://streak-stats.demolab.com?user=mxt1022&theme=light&hide_border=true" />
+</p>
+
+<!-- Quine 语言趋势图 -->
+<p align="center">
+  <img width="800" src="https://stats.quine.sh/mxt1022/languages-over-time?theme=light" />
+</p>
+
+<!-- Quine 话题趋势图 -->
+<p align="center">
+  <img width="800" src="https://stats.quine.sh/mxt1022/topics-over-time?theme=light" />
+</p>
+
+<!-- 贡献活动图（备用，确保至少有一个显示） -->
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-light&hide_border=true&area=true" />
 </p>
 
 <!--START_SECTION:waka-->
