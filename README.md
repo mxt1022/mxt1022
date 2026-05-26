@@ -69,6 +69,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://ghchart.rshah.org/mxt1022" />
 </p>
+<!-- 环形图风格：展示仓库中的语言占比 -->
+<p align="center">
+<img src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
+</p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
 
