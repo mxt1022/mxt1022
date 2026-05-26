@@ -66,7 +66,13 @@ Here are some ideas to get you started:
   <img align="center" width="450" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
   <br/>
 </p>
-  
+<p align="center">
+  <img src="https://ghchart.rshah.org/mxt1022" />
+</p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <!--<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
