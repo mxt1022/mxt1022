@@ -77,5 +77,77 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact" />
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
+
+**🐱 我的 GitHub 数据** 
+
+> 📦  使用了 153.0 kB GitHub 存储空间 
+ > 
+> 🏆 5 个贡献，在 2026 年
+ > 
+> 🚫 不开放招聘
+ > 
+> 📜 17 个公共仓库 
+ > 
+> 🔑 2 个私人仓库 
+ > 
+**我是早鸟 🐤** 
+
+```text
+🌞 早晨                     19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+🌆 白天                     53 commits          ████████████░░░░░░░░░░░░░   47.75 % 
+🌃 傍晚                     36 commits          ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌙 晚上                     3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```
+📅 **星期二 时的我最有干劲** 
+
+```text
+星期一                      7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+星期二                      25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+星期三                      12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+星期四                      11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+星期五                      16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+星期六                      20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+星期日                      20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+Python                   18 mins             █████████████████████████   100.00 % 
+
+🔥 编辑器: 
+VS Code                  18 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 项目: 
+Unknown Project          18 mins             █████████████████████████   100.00 % 
+
+💻 操作系统: 
+Windows                  18 mins             █████████████████████████   100.00 % 
+```
+
+**我最常使用 Java** 
+
+```text
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**时间线**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mxt1022/mxt1022/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/05/2026 06:15:55 UTC
 <!--END_SECTION:waka-->
