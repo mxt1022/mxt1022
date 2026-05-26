@@ -77,7 +77,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact" />
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
+
+![Code Time](https://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
