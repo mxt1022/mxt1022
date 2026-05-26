@@ -60,21 +60,23 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mxt1022&theme=transparent&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=mxt1022&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-compact&hide_border=true&area=true" />
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mxt1022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxt1022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-
+  <!-- GitHub 通用统计 -->
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mxt1022&theme=transparent&show_icons=true&hide_border=true" />
+  
+  <!-- GitHub 连续打卡统计 -->
+  <img align="center" width="400" src="https://streak-stats.demolab.com?user=mxt1022&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <br/>
+  
+  <!-- GitHub 贡献活动图 -->
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-compact&hide_border=true&area=true" />
+  <br/>
+  
+  <!-- WakaTime 编码统计（需要配置 WakaTime） -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mxt1022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+  
+  <!-- 主要编程语言占比 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxt1022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <br/>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
