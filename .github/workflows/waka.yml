@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 16 * * *'   # 每天 UTC 16:00 (北京时间 0:00) 运行
-  workflow_dispatch:        # 允许手动触发
+    - cron: '0 16 * * *'   # 每天 UTC 16:00 (北京时间 0:00) 运行，可按需修改
+  workflow_dispatch:        # 允许手动触发工作流
 
 jobs:
   update-readme:
@@ -15,5 +15,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "zh"
-          # ⭐ 确保显示总编码时间（Code Time）
-          SHOW_TOTAL_CODE_TIME: "True"
+          # --- 关键配置开始 ---
+          DEBUG_LOGGING: "True"          # 1. 开启详细日志，便于排查问题
+          SHOW_TOTAL_CODE_TIME: "True"   # 2. 确保显示总编码时间
+          #SHOW_PROFILE_VIEWS: "False"    # 3. 可选：关闭不准确的浏览量显示
+          # --- 关键配置结束 ---
