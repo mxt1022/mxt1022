@@ -59,8 +59,10 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-
-![codeforce](https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only)
+<div align="center">
+  <img src="https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only" width="36%" />
+  <img src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg#gh-dark-mode-only" width="51%" />
+</div>
 
 <p align="center">
   <!-- 使用国内镜像的通用统计卡片 -->
