@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
+
+![codeforce](https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only)
+
 <p align="center">
   <!-- 使用国内镜像的通用统计卡片 -->
   <img align="center" width="400" src="https://stats.justsong.cn/api/github?username=mxt1022&theme=tokyonight&show_icons=true&hide_border=true" />
