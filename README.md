@@ -71,22 +71,30 @@ Here are some ideas to get you started:
   <img align="center" width="450" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
   <br/>
 </p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/mxt1022" />
-</p>
 <!-- 环形图风格：展示仓库中的语言占比 -->
 <p align="center">
-<img src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
+  <img width="45%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
+  <picture>
+  <!-- 暗色模式下使用的图片 -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000"
+  />
+  <!-- 亮色模式下使用的图片 -->
+  <img
+    src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=FFFFFF"
+    alt="WakaTime Stats"
+  />
+</picture>
+ 
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact" />
-</p>
+
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
+<!--![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)-->
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-123-blue?style=flat)
+<!--![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-123-blue?style=flat)-->
 
 **🐱 我的 GitHub 数据** 
 
