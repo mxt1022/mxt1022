@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-147-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -160,5 +160,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2026 21:05:41 UTC
+ Last Updated on 11/06/2026 20:41:22 UTC
 <!--END_SECTION:waka-->
