@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=80&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20mxt1022's%20GitHub%20Profile&descAlign=50&descSize=22&descAlignY=62&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:556270,75:2980B9,100:8E44AD&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=80&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20mxt1022's%20GitHub%20Profile&descAlign=50&descSize=22&descAlignY=62&animation=twinkling" />
 </div>
 
 <h3 align="center">
@@ -70,43 +70,23 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mxt1022&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-  </a>
-</p>
-
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://stats.justsong.cn/api/github?username=mxt1022&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <img width="49%" src="https://stats.justsong.cn/api/github?username=mxt1022&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
+  <img width="49%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" />
-    <img width="48%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=FFFFFF" alt="WakaTime Stats" />
+    <img width="49%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=FFFFFF" alt="WakaTime Stats" />
   </picture>
 </p>
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
+---
 
 ## 🏅 Codeforces
 
@@ -192,5 +172,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:556270,75:2980B9,100:8E44AD&height=120&section=footer" />
 </div>
