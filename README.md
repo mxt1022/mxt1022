@@ -2,7 +2,7 @@
 
 # Hi, I'm mxt1022 👋
 
-Full-stack developer & competitive programming enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+developer;Competitive+programming+enthusiast;Building+with+Vue.js+%C3%97+Spring+Boot;Always+learning%2C+always+shipping" alt="Typing introduction" />
 
 <a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 <a href="https://codeforces.com/profile/InsaneArrogant"><img src="https://img.shields.io/badge/Codeforces-InsaneArrogant-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
@@ -10,11 +10,31 @@ Full-stack developer & competitive programming enthusiast
 
 </div>
 
+```javascript
+const me = {
+  focus: "Vue.js × Spring Boot",
+  arena: "Codeforces / InsaneArrogant",
+  interests: ["coding", "games", "anime"],
+  motto: "Turn hard problems into clear solutions."
+};
+```
+
 ## 技术栈
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,vue,react,spring,mysql,postgres,git,linux&theme=dark&perline=12" alt="C++, Python, Java, JavaScript, TypeScript, Vue, React, Spring, MySQL, PostgreSQL, Git and Linux" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark" height="38" alt="C++, Python, Java, JavaScript and TypeScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,react,spring&theme=dark" height="38" alt="Vue, React and Spring" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux&theme=dark" height="38" alt="MySQL, PostgreSQL, Git and Linux" /></td>
+  </tr>
+</table>
 
 ## 个人贡献
 
@@ -28,6 +48,18 @@ Full-stack developer & competitive programming enthusiast
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-compact&hide_border=true&area=true&radius=6&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
 </div>
+
+<details>
+  <summary><b>🐍 展开贡献贪吃蛇</b></summary>
+  <br />
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake.svg" />
+      <img width="100%" src="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+    </picture>
+  </div>
+</details>
 
 ## 刷题记录
 
