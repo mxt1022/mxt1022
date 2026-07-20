@@ -20,24 +20,11 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-- 🔭 我目前在做：**Web 开发 & 算法竞赛**
-- 🌱 我正在学习：**Vue / Spring Boot**
-- 💬 问我关于：**Python / C++ / 前端**
-- 📫 怎么联系我：**GitHub Issues 或 Bilibili 私信**
-- ⚡ 有趣的事实：**热爱 Codeforces，handle：InsaneArrogant**
+🔥 **Web 开发 & 算法竞赛** &nbsp;|&nbsp; 🌱 **Vue / Spring Boot Learner** &nbsp;|&nbsp; ⚡ **Codeforces: InsaneArrogant**
 
-</td>
-<td align="center">
-
-![Code Time](https://img.shields.io/badge/Code%20Time-10%20mins-blue?style=flat)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -86,6 +73,12 @@
   </picture>
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=My%20Contribution%20Graph" width="100%" />
+</p>
+
 ---
 
 ## 🏅 Codeforces
@@ -94,6 +87,14 @@
   <img src="https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only" width="36%" />
   <img src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg#gh-dark-mode-only" width="51%" />
 </div>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+</p>
 
 <br/>
 
