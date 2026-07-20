@@ -1,21 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">mxt1022 profile header</title><desc id="desc">Dark terminal banner</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Player 1022 developer profile</title>
+  <desc id="desc">A personalized game save screen for mxt1022</desc>
   <defs>
-    <linearGradient id="bg"><stop stop-color="#090b14"/><stop offset=".55" stop-color="#111328"/><stop offset="1" stop-color="#091c1b"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#7c5cfc"/><stop offset="1" stop-color="#00d4aa"/></linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8b93b8" stroke-opacity=".07"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090910"/><stop offset=".55" stop-color="#11111b"/><stop offset="1" stop-color="#14101a"/></linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff4d6d"/><stop offset="1" stop-color="#f9a826"/></linearGradient>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 7.5H8" stroke="#fff" stroke-opacity=".018"/></pattern>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#33d1ba" opacity=".12"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-  <circle cx="1080" cy="55" r="145" fill="#7c5cfc" opacity=".08"/><circle cx="112" cy="332" r="185" fill="#00d4aa" opacity=".06"/>
-  <g transform="translate(64 48)">
-    <rect width="1072" height="264" rx="15" fill="#0d1117" fill-opacity=".72" stroke="#343951"/><path d="M0 48H1072" stroke="#343951"/>
-    <circle cx="24" cy="24" r="6" fill="#ff5f57"/><circle cx="46" cy="24" r="6" fill="#febc2e"/><circle cx="68" cy="24" r="6" fill="#28c840"/>
-    <text x="536" y="29" text-anchor="middle" fill="#565f89" font-family="Consolas,monospace" font-size="13">~/mxt1022/profile</text>
-    <text x="48" y="96" fill="#00d4aa" font-family="Consolas,monospace" font-size="18">mxt@github</text><text x="162" y="96" fill="#565f89" font-family="Consolas,monospace" font-size="18">:</text><text x="172" y="96" fill="#7aa2f7" font-family="Consolas,monospace" font-size="18">~</text><text x="187" y="96" fill="#c0caf5" font-family="Consolas,monospace" font-size="18">$ whoami</text>
-    <text x="48" y="165" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="58">mxt1022</text><rect x="268" y="117" width="5" height="54" rx="2" fill="#00d4aa"/>
-    <text x="50" y="206" fill="#a9b1d6" font-family="Consolas,monospace" font-size="17" letter-spacing="1.2">ALGORITHMS × FULL-STACK × CURIOSITY</text>
-    <text x="50" y="237" fill="#565f89" font-family="Consolas,monospace" font-size="14">turning hard problems into clear systems.</text>
-    <g transform="translate(800 91)" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M38 29 10 57l28 28M103 29l28 28-28 28" stroke="#7c5cfc" stroke-width="7"/><path d="m87 15-31 84" stroke="#00d4aa" stroke-width="7"/><circle cx="180" cy="57" r="42" stroke="#343951" stroke-width="2"/><path d="M180 35v24l17 11" stroke="#f5a623" stroke-width="5"/><circle cx="180" cy="57" r="4" fill="#f5a623" stroke="none"/></g>
+
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/><rect width="1200" height="420" rx="22" fill="url(#scan)"/>
+  <path d="M0 0h310L170 420H0z" fill="#ff4d6d" opacity=".035"/><path d="M1200 0H865l155 420h180z" fill="#33d1ba" opacity=".03"/>
+  <path d="M35 76V35h41M1124 35h41v41M35 344v41h41M1124 385h41v-41" fill="none" stroke="#3b3b50" stroke-width="2"/>
+
+  <g font-family="Consolas,monospace">
+    <circle cx="69" cy="63" r="5" fill="#33d1ba" filter="url(#glow)"/><text x="84" y="69" fill="#33d1ba" font-size="14" letter-spacing="2">ONLINE // ASIA-SHANGHAI</text>
+    <text x="1130" y="69" fill="#6c7086" font-size="13" text-anchor="end">PROFILE.SAV</text>
+
+    <text x="66" y="145" fill="#6c7086" font-size="18" letter-spacing="5">PLAYER</text>
+    <text x="61" y="247" fill="url(#hot)" font-family="Segoe UI,Arial,sans-serif" font-size="112" font-weight="800" letter-spacing="-7">1022</text>
+    <text x="69" y="286" fill="#cdd6f4" font-size="21" letter-spacing="3">MXT // DEVELOPER</text>
+    <path d="M69 309h435" stroke="#313244"/><path d="M69 309h138" stroke="#ff4d6d" stroke-width="3"/>
+    <text x="69" y="340" fill="#7f849c" font-size="14">FULL-STACK EXPLORER</text><text x="69" y="366" fill="#7f849c" font-size="14">COMPETITIVE PROGRAMMER</text>
+
+    <g transform="translate(588 104)">
+      <rect width="544" height="230" rx="8" fill="#0d0d15" stroke="#313244"/>
+      <path d="M0 48h544" stroke="#313244"/><rect x="0" y="0" width="7" height="48" fill="#ff4d6d"/>
+      <text x="27" y="30" fill="#cdd6f4" font-size="15" letter-spacing="2">CURRENT BUILD</text><text x="514" y="30" text-anchor="end" fill="#f9a826" font-size="13">LV. 1022</text>
+
+      <text x="28" y="84" fill="#6c7086" font-size="12">ALGORITHM</text><rect x="150" y="73" width="336" height="10" rx="5" fill="#242433"/><rect x="150" y="73" width="282" height="10" rx="5" fill="#ff4d6d"/><text x="506" y="84" fill="#ff4d6d" font-size="11">GRIND</text>
+      <text x="28" y="124" fill="#6c7086" font-size="12">FRONTEND</text><rect x="150" y="113" width="336" height="10" rx="5" fill="#242433"/><rect x="150" y="113" width="255" height="10" rx="5" fill="#f9a826"/><text x="506" y="124" fill="#f9a826" font-size="11">SHIP</text>
+      <text x="28" y="164" fill="#6c7086" font-size="12">BACKEND</text><rect x="150" y="153" width="336" height="10" rx="5" fill="#242433"/><rect x="150" y="153" width="265" height="10" rx="5" fill="#33d1ba"/><text x="506" y="164" fill="#33d1ba" font-size="11">GROW</text>
+
+      <rect x="25" y="187" width="155" height="24" rx="3" fill="#1e1e2e"/><text x="102" y="204" text-anchor="middle" fill="#a6adc8" font-size="11">VUE.JS</text>
+      <rect x="194" y="187" width="155" height="24" rx="3" fill="#1e1e2e"/><text x="271" y="204" text-anchor="middle" fill="#a6adc8" font-size="11">SPRING BOOT</text>
+      <rect x="363" y="187" width="155" height="24" rx="3" fill="#1e1e2e"/><text x="440" y="204" text-anchor="middle" fill="#a6adc8" font-size="11">CODEFORCES</text>
+    </g>
+
+    <text x="589" y="368" fill="#6c7086" font-size="13">MAIN QUEST</text><text x="696" y="368" fill="#cdd6f4" font-size="13">TURN HARD PROBLEMS INTO CLEAR SYSTEMS</text>
   </g>
-  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+
+  <rect x="1" y="1" width="1198" height="418" rx="21" fill="none" stroke="#313244" stroke-width="2"/>
+  <path d="M22 1h155M1023 419h155" stroke="url(#hot)" stroke-width="3"/>
 </svg>
