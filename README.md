@@ -6,7 +6,7 @@
 
 <a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 <a href="https://codeforces.com/profile/InsaneArrogant"><img src="https://img.shields.io/badge/Codeforces-InsaneArrogant-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/Bilibili-UID%2048194734-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili UID 48194734" /></a>
+<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/Bilibili-UID%2048194734-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="每一天都在rp--" /></a>
 <img src="https://komarev.com/ghpvc/?username=mxt1022&label=Profile%20views&color=6E7681&style=flat-square" alt="Profile views" />
 
 </div>
@@ -73,8 +73,8 @@ const me = {
 
 <table align="center">
   <tr>
-    <td width="39%" align="center">
-      <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg" alt="Codeforces profile card" /></a>
+    <td width="42%" align="center">
+      <img src="https://cp-insights-three.vercel.app/api/profile?handle=InsaneArrogant&theme=light&heatmap=true&problemBarGraph=true" alt="Codeforces Profile Card" />
     </td>
     <td width="61%" align="center">
       <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg" alt="Codeforces rating history" /></a>
