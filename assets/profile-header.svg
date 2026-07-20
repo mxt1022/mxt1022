@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">mxt1022 profile header</title><desc id="desc">Dark terminal banner</desc>
+  <defs>
+    <linearGradient id="bg"><stop stop-color="#090b14"/><stop offset=".55" stop-color="#111328"/><stop offset="1" stop-color="#091c1b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#7c5cfc"/><stop offset="1" stop-color="#00d4aa"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8b93b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <circle cx="1080" cy="55" r="145" fill="#7c5cfc" opacity=".08"/><circle cx="112" cy="332" r="185" fill="#00d4aa" opacity=".06"/>
+  <g transform="translate(64 48)">
+    <rect width="1072" height="264" rx="15" fill="#0d1117" fill-opacity=".72" stroke="#343951"/><path d="M0 48H1072" stroke="#343951"/>
+    <circle cx="24" cy="24" r="6" fill="#ff5f57"/><circle cx="46" cy="24" r="6" fill="#febc2e"/><circle cx="68" cy="24" r="6" fill="#28c840"/>
+    <text x="536" y="29" text-anchor="middle" fill="#565f89" font-family="Consolas,monospace" font-size="13">~/mxt1022/profile</text>
+    <text x="48" y="96" fill="#00d4aa" font-family="Consolas,monospace" font-size="18">mxt@github</text><text x="162" y="96" fill="#565f89" font-family="Consolas,monospace" font-size="18">:</text><text x="172" y="96" fill="#7aa2f7" font-family="Consolas,monospace" font-size="18">~</text><text x="187" y="96" fill="#c0caf5" font-family="Consolas,monospace" font-size="18">$ whoami</text>
+    <text x="48" y="165" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="58">mxt1022</text><rect x="268" y="117" width="5" height="54" rx="2" fill="#00d4aa"/>
+    <text x="50" y="206" fill="#a9b1d6" font-family="Consolas,monospace" font-size="17" letter-spacing="1.2">ALGORITHMS × FULL-STACK × CURIOSITY</text>
+    <text x="50" y="237" fill="#565f89" font-family="Consolas,monospace" font-size="14">turning hard problems into clear systems.</text>
+    <g transform="translate(800 91)" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M38 29 10 57l28 28M103 29l28 28-28 28" stroke="#7c5cfc" stroke-width="7"/><path d="m87 15-31 84" stroke="#00d4aa" stroke-width="7"/><circle cx="180" cy="57" r="42" stroke="#343951" stroke-width="2"/><path d="M180 35v24l17 11" stroke="#f5a623" stroke-width="5"/><circle cx="180" cy="57" r="4" fill="#f5a623" stroke="none"/></g>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+</svg>
