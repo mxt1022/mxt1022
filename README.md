@@ -76,7 +76,7 @@ const me = {
     <td width="42%" align="center">
       <img src="https://cp-insights-three.vercel.app/api/profile?handle=InsaneArrogant&theme=light&heatmap=true&problemBarGraph=true" alt="Codeforces Profile Card" />
     </td>
-    <td width="61%" align="center">
+    <td width="80%" align="center">
       <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg" alt="Codeforces rating history" /></a>
     </td>
   </tr>
