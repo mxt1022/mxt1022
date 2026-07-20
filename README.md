@@ -1,95 +1,121 @@
-### Hi there 👋
-
 <!--
-**mxt1022/mxt1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**mxt1022/mxt1022** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-<!-- https://github.com/badges/shields -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=80&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20mxt1022's%20GitHub%20Profile&descAlign=50&descSize=22&descAlignY=62&animation=twinkling" />
+</div>
+
+<h3 align="center">
+  <a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/Bilibili-%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E5%9C%A8rp-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mxt1022&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+am+super+obsessed+with+programming!;Always+learning+new+things+%F0%9F%9A%80" />
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td>
+
+- 🔭 我目前在做：**Web 开发 & 算法竞赛**
+- 🌱 我正在学习：**Vue / Spring Boot**
+- 💬 问我关于：**Python / C++ / 前端**
+- 📫 怎么联系我：**GitHub Issues 或 Bilibili 私信**
+- ⚡ 有趣的事实：**热爱 Codeforces，handle：InsaneArrogant**
+
+</td>
+<td align="center">
+
+![Code Time](https://img.shields.io/badge/Code%20Time-10%20mins-blue?style=flat)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p align="center">
-<a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/哔哩哔哩-每一天都在rp---pink?logo=bilibili" /></a>
-<!--<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />-->
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=mxt1022&abbreviated=true&color=yellow" />
-<img src="http://img.shields.io/badge/Code%20Time-10%20mins-blue"></a>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light&perline=9" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 🧰 Tools & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mxt1022&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+  </a>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://stats.justsong.cn/api/github?username=mxt1022&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20mxt1022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img width="48%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" />
+    <img width="48%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=FFFFFF" alt="WakaTime Stats" />
+  </picture>
 </p>
 
-## Languages & Frameworks & Skills :
+<br/>
 
-### Language:
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light" />
+## 🐍 Contribution Snake
 
-### Web Design & Development:
-#### Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Vue.js](https://img.shields.io/badge/-Vue.js-145316?style=for-the-badge&logo=Vue.js&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mxt1022/mxt1022/output/github-contribution-grid-snake.svg" />
+</picture>
 
-#### Backend:
-![Springboot](https://img.shields.io/badge/Springboot-43853D.svg?style=for-the-badge&logo=springboot&logoColor=white)
+<br/>
 
-#### Database:
-![Mysql](https://img.shields.io/badge/MySql-13453D.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Hosting Services and Web Tools:
-![Postman](https://img.shields.io/badge/Postman-78853D.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-
-### IDEs and Tools 🛠:
-![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
+## 🏅 Codeforces
 
 <div align="center">
   <img src="https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only" width="36%" />
   <img src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg#gh-dark-mode-only" width="51%" />
 </div>
 
-<p align="center">
-  <!-- 使用国内镜像的通用统计卡片 -->
-  <img align="center" width="400" src="https://stats.justsong.cn/api/github?username=mxt1022&theme=tokyonight&show_icons=true&hide_border=true" />
- <!-- GitHub 连续打卡统计 -->
-  <img align="center" width="450" src="https://streak-stats.demolab.com?user=mxt1022&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
-  <br/>
-</p>
-<!-- 环形图风格：展示仓库中的语言占比 -->
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-neon-omega-34.vercel.app/api/top-langs/?username=mxt1022&theme=tokyonight&hide_border=true&layout=donut&v=2" />
-  <picture>
-  <!-- 暗色模式下使用的图片 -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000"
-  />
-  <!-- 亮色模式下使用的图片 -->
-  <img
-    src="https://github-readme-stats-neon-omega-34.vercel.app/api/wakatime?username=mxt1022&theme=tokyonight&layout=compact&hide_border=true&bg_color=FFFFFF"
-    alt="WakaTime Stats"
-  />
-</picture>
- 
-</p>
-
-
+<br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2027%20mins-blue?style=flat)
@@ -99,15 +125,15 @@ Here are some ideas to get you started:
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 155.7 kB GitHub 存储空间 
- > 
+> 
 > 🏆 38 个贡献，在 2026 年
- > 
+> 
 > 🚫 不开放招聘
- > 
+> 
 > 📜 18 个公共仓库 
- > 
+> 
 > 🔑 1 个私人仓库 
- > 
+> 
 **我是早鸟 🐤** 
 
 ```text
@@ -150,7 +176,6 @@ blog                     20 mins             ███████████�
 💻 操作系统: 
 Windows                  20 mins             █████████████████████████   100.00 % 
 ```
-
 **我最常使用 Python** 
 
 ```text
@@ -163,6 +188,9 @@ Astro                    1 repo              ██░░░░░░░░░�
 
 
 
-
  Last Updated on 19/07/2026 19:38:56 UTC
 <!--END_SECTION:waka-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+</div>
