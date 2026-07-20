@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm mxt1022 👋
+<img src="./assets/hello.svg" width="720" alt="Hi, I'm mxt1022" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+developer;Competitive+programming+enthusiast;Building+with+Vue.js+%C3%97+Spring+Boot;Always+learning%2C+always+shipping" alt="Typing introduction" />
 
 <a href="https://github.com/mxt1022"><img src="https://img.shields.io/badge/GitHub-mxt1022-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 <a href="https://codeforces.com/profile/InsaneArrogant"><img src="https://img.shields.io/badge/Codeforces-InsaneArrogant-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://space.bilibili.com/48194734"><img src="https://img.shields.io/badge/Bilibili-UID%2048194734-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili UID 48194734" /></a>
 <img src="https://komarev.com/ghpvc/?username=mxt1022&label=Profile%20views&color=6E7681&style=flat-square" alt="Profile views" />
 
 </div>
@@ -64,14 +65,23 @@ const me = {
 ## 刷题记录
 
 <div align="center">
-  <a href="https://codeforces.com/profile/InsaneArrogant">
-    <img width="38%" src="https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg" alt="Codeforces profile card" />
-    <img width="59%" src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg" alt="Codeforces rating history" />
-  </a>
+  <a href="https://codeforces.com/profile/InsaneArrogant"><img src="https://img.shields.io/badge/CODEFORCES-InsaneArrogant-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces InsaneArrogant" /></a>
+  <img src="https://img.shields.io/badge/STATUS-Keep%20solving-238636?style=for-the-badge" alt="Keep solving" />
 </div>
 
 <br />
 
-<div align="center">
-  <sub>Codeforces: <a href="https://codeforces.com/profile/InsaneArrogant"><b>InsaneArrogant</b></a></sub>
-</div>
+<table align="center">
+  <tr>
+    <td width="39%" align="center">
+      <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://github.com/mxt1022/cf-stats/blob/main/output/light_card.svg" alt="Codeforces profile card" /></a>
+    </td>
+    <td width="61%" align="center">
+      <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg" alt="Codeforces rating history" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <samp>Think → Code → Submit → Learn → Repeat</samp>
+</p>
