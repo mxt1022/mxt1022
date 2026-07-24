@@ -13,9 +13,9 @@
 
 ```javascript
 const me = {
-  focus: "Vue.js × Spring Boot",
+  focus: "LLM Agent、Kaggle、Codeforces",
   arena: "Codeforces / InsaneArrogant",
-  interests: ["coding", "games", "anime"],
+  interests: ["coding", "game", "anime"],
   motto: "Turn hard problems into clear solutions."
 };
 ```
