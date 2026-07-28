@@ -41,7 +41,7 @@ const me = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-neon-omega-34.vercel.app/api?username=mxt1022&show_icons=true&count_private=true&hide_border=true&theme=github_dark&border_radius=6" alt="GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=mxt1022&theme=github-dark-blue&hide_border=true&border_radius=6" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=mxt1022&theme=github-dark-blue&hide_border=true&border_radius=6" alt="GitHub contribution streak" />
 </div>
 
 <br />
