@@ -74,10 +74,10 @@ const me = {
 <table align="center">
   <tr>
     <td width="42%" align="center">
-      <img src="https://cp-insights-three.vercel.app/api/profile?handle=InsaneArrogant&theme=light&heatmap=true&problemBarGraph=true" alt="Codeforces Profile Card" />
+      <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=InsaneArrogant&theme=github_dark&darkMode=false" alt="Codeforces Profile Card" />
     </td>
     <td width="80%" align="center">
-      <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://github.com/mxt1022/cf-stats/blob/main/output/rating_curve.svg" alt="Codeforces rating history" /></a>
+      <a href="https://codeforces.com/profile/InsaneArrogant"><img width="100%" src="https://codeforces-stats-vlx.vercel.app/api/graph?username=InsaneArrogant&theme=github_dark&darkMode=false" alt="Codeforces rating history" /></a>
     </td>
   </tr>
 </table>
