@@ -47,7 +47,7 @@ const me = {
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mxt1022&theme=github-compact&hide_border=true&area=true&radius=6&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
+  <img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph?username=mxt1022&theme=github-compact&hide_border=true&area=true&radius=6&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
 </div>
 
 <details>
